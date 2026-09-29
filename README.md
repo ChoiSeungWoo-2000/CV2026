@@ -15,6 +15,22 @@ https://github.com/user-attachments/assets/580c249c-2bf3-48d4-acd3-82bbc98364cd
 
 ### Homework2 
 
+##### 1 neuron
+
+
+<img src="homework/1neuron.png" width="800x600">
+
+
+##### 8 + 8 + 1 neuron
+
+
+<img src="homework/8+8+1neuron.png" width="800x600">
+
+
+#####  10 + 10 + 1 neuron
+
+
+<img src="homework/10+10+1neuron.png" width="800x600">
 
 
 
