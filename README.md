@@ -43,6 +43,7 @@ https://github.com/user-attachments/assets/580c249c-2bf3-48d4-acd3-82bbc98364cd
 
 ### Accuracy Comparison
 
+두 모델 모두 테스트 데이터 = 10000, epochs = 10, batchs size = 500, validation_split = 6000 설정
 
 <img src="homework/cnnmlp.png" width="800x600">
 
