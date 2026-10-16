@@ -35,8 +35,16 @@ https://github.com/user-attachments/assets/580c249c-2bf3-48d4-acd3-82bbc98364cd
 <img src="homework/10+10+1neuron.png" width="800x600">
 
 
-## 은닉층과 뉴런 수가 증가할수록 신경망이 표현하는 분류경계가 정교해진다.
+### 은닉층과 뉴런 수가 증가할수록 신경망이 표현하는 분류경계가 정교해진다.
 
+## Homework3 - MNIST Analysis
+
+<h1><a href="homework/Homework_3.ipynb"> Accuracy Comparison 코드 보기</a></h1>
+
+### Accuracy Comparison
+
+
+<img src="homework/cnnmlp.png" width="800x600">
 
 
 
